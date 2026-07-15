@@ -26,7 +26,7 @@ Edit the following variables in the script to match your testing environment:
 Execute the script from the terminal:
 
 ```bash
-python script.py
+python NAMEofSCRIPT.py
 ```
 
 The script will:
